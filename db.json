@@ -3,7 +3,21 @@
         "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy05.jpg",
         "id": "24567880",
         "name": "Carlos Alberto Bragança Souto",
-        "description": "Carlos Alberto possui graduação em engenharia civíl e especialização em segurança do trabalho.",
-        "rating": 7.82
+        "description": "Carlos Alberto possui graduação em Engenharia de Manufatura e Produção, mestrado e doutorado nas áreas de ergonomia e segurança do trabalho.",
+        "rating": 7.82,
+        "expertises": [
+            {
+                "name": "Segurança do trabalho"
+            },
+            {
+                "name": "Análise e Prevenção de Riscos de Acidentes"
+            },
+            {
+                "name": "Psicologia do Trabalho"
+            },
+            {
+                "name": "Segurança do trabalho"
+            }
+        ]
     }
 }
