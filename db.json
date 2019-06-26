@@ -7,7 +7,7 @@
         "rating": 7.82,
         "expertise": [
             {
-                "name": "Segurança do trabalho"
+                "name": "Segurança do Trabalho"
             },
             {
                 "name": "Análise e Prevenção de Riscos de Acidentes"
@@ -16,7 +16,7 @@
                 "name": "Psicologia do Trabalho"
             },
             {
-                "name": "Segurança do trabalho"
+                "name": "Organização do Trabalho"
             }
         ]
     }
